@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Atharva
 ####  I am a Computer Science Student
-![ I am a Computer Science Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+##
+<img align="right" alt="coding" width="400" src="00-imp--04animation_1.gif"> 
 
 Experienced Campus Ambassador with a demonstrated history of working in the non-profit organization management industry. Skilled in Sales, Engineering, Laptops, English, and Brand Ambassadorship. 
 
