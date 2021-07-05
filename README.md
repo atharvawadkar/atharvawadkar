@@ -6,7 +6,7 @@
 
 Experienced Campus Ambassador with a demonstrated history of working in the non-profit organization management industry. Skilled in Sales, Engineering, Laptops, English, and Brand Ambassadorship. 
 
-Skills: Python ,C++,C,HTML,Django
+## Skills: Python ,C++,C,HTML,Django
 
 - 🔭 I’m currently working on Chatbot 
 - 🌱 I’m currently learning Data Science 
