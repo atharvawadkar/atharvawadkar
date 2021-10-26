@@ -16,7 +16,7 @@ Experienced Campus Ambassador with a demonstrated history of working in the non-
 
 #
 
-[<img src='https://img.icons8.com/nolan/50/github.png' alt='github' height='40'>](https://github.com/atharvawadkar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/athxxxx)  [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/atharvawadkar_/)  [<img src='https://img.icons8.com/nolan/64/twitter.png' alt='twitter' height='40'>](https://twitter.com/AtharvaWadkar)[<img src='https://img.icons8.com/nolan/64/domain.png' alt='website' height='40'>](https://atharvawadkar.github.io/)  [<img src='https://img.icons8.com/nolan/64/medium-new.png' alt='website' height='40'>](https://atharvawadkar.medium.com/)    [<img src='https://img.icons8.com/nolan/64/youtube-play.png' alt='website' height='40'>](https://youtu.be/B14XGqsJW3g)  
+[<img src='https://img.icons8.com/nolan/50/github.png' alt='github' height='40'>](https://github.com/atharvawadkar)   [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/atharvawadkar_/)  [<img src='https://img.icons8.com/nolan/64/twitter.png' alt='twitter' height='40'>](https://twitter.com/AtharvaWadkar)[<img src='https://img.icons8.com/nolan/64/domain.png' alt='website' height='40'>](https://atharvawadkar.github.io/)  [<img src='https://img.icons8.com/nolan/64/medium-new.png' alt='website' height='40'>](https://atharvawadkar.medium.com/)    [<img src='https://img.icons8.com/nolan/64/youtube-play.png' alt='website' height='40'>](https://youtu.be/B14XGqsJW3g)  
 
 
 
