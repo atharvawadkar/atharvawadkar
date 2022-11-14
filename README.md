@@ -11,7 +11,7 @@ Experienced Campus Ambassador with a demonstrated history of working in the non-
 - 🌱 I’m currently learning Django cms 
 - 👯 I’m looking to collaborate on YT videos 
 - 🤔 I’m looking for help with ML 
-- 📫 How to reach me: atharvawadkar646@gmail.com 
+
 - ⚡ Fun fact: For this look my Twitter 
 
 #
